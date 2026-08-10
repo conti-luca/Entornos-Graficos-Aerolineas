@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Prueba</title>
+        <title id="titulo">Prueba</title>
     </head>
     <body>
         <h1>
