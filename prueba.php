@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title id="titulo">Prueba</title>
+        <title id="titulo">Te equivocaste santi</title>
     </head>
     <body>
         <h1>
