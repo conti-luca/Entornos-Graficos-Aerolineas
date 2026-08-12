@@ -4,7 +4,7 @@
     </head>
     <body>
         <h1>
-            <strong>HOLitas</strong>
+            <strong>Buenos días gente</strong>
             <i>prueba 1</i>
         </h1>
     </body>
